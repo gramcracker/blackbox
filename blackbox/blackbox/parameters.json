@@ -1,0 +1,11 @@
+{
+   "Regions":
+      [
+         "name":, ,"parameters":{"resolution": 0.01, "minval": -1, "maxval": 1, "periodic": False, "activeBits": 2},
+      ]
+   ,
+   "Links":
+   {
+
+   }
+}
